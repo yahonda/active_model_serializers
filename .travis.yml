@@ -52,8 +52,6 @@ rvm:
   - *ruby_2_6
   - *ruby_head
 
-branches:
-  only: 0-10-stable
 
 matrix:
   include:
